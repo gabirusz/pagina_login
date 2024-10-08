@@ -1,0 +1,32 @@
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: end;
+    padding: 1rem 0;
+    margin-left: 500px; 
+    display: block;
+}
+
+.input-group {
+    padding: 10px;
+    align-items: center;
+
+} 
+
+.input-box {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.1rem;
+    padding: 35px;
+    margin: 30px;
+}
+
+.input-box input {
+    margin: 0.9rem 0;
+    padding: 11px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px #000001;
+}
+

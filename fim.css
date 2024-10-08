@@ -1,0 +1,22 @@
+footer {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+    margin-left: 355px;    
+}
+
+.concordar {
+    margin-top: 5px;
+    margin-bottom: 65px;
+}
+
+.login {
+    width: 8%;
+    height: 45px;
+    background-color: pink;
+    border: none;
+    outline: none;
+    border-radius: 45px;
+
+}
